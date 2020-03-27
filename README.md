@@ -1,2 +1,0 @@
-# MyNotes
-Created with CodeSandbox
